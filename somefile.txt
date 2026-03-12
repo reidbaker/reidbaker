@@ -1,1 +1,1 @@
-echo $USER pwned
+echo $USER pwned context  $LUCI_CONTEXT
